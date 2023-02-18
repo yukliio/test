@@ -1,0 +1,32 @@
+nav{
+  padding: 20px;
+  background-color: #1f0554;
+}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~HEADING~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+    /*TAGS*/
+    h1{
+      font-size: 2.5rem;
+      line-height: 1.5;
+    }
+
+    /*CLASSES*/
+      .heading{
+        padding: 30px;
+        font-family: 'Ubuntu', sans-serif;
+      }
+
+    /*IDS*/
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~SUBHEADINGS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*TAGS*/
+
+
+/*CLASSES*/
+    .subheadings{
+      font-family: 'Arvo', serif;
+       font-style: oblique;
+    }
+
+/*IDS*/ {
+
+}
